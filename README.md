@@ -1,16 +1,29 @@
-# grocery_app
+# Tech Junction
 
-A new Flutter project.
+Tech Junction is a Flutter-based e-commerce mobile application for browsing and purchasing mobiles, laptops, and electronic accessories. The app delivers a smooth shopping experience with secure authentication, cart management, checkout workflows, and integrated online payment support.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User Authentication
+- Product Listing
+- Shopping Cart
+- Checkout Flow
+- Online Payment Integration
+- Paytm & UPI App Support
+- Stripe Payment Gateway
+- Responsive UI
+- Firebase Integration
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Firebase
+- REST APIs
+- Provider
+- Stripe Payment Gateway
+- UPI Payment Integration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status
+
+Production-ready cross-platform e-commerce application built with scalable and reusable architecture.
